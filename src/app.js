@@ -22,12 +22,12 @@ export default _ =>
         display: flex;
         align-items: center;
         background: white;
-        height: 20vw;
-        width: 20vw;
+        height: 20vmax;
+        width: 20vmax;
         border-radius: 50%;
         overflow: hidden;
-        font-size: 5vw;
-        box-shadow: inset -0.5vw 0.5vw 1vw rgba(0, 0, 0, 0.3);
+        font-size: 5vmax;
+        box-shadow: inset -0.5vmax 0.5vmax 1vmax rgba(0, 0, 0, 0.3);
       }
     `}</style>
     <div className="hello">
